@@ -1,0 +1,9 @@
+{
+    "commands":{
+            "build": "gcc main.c -o bin",
+            "test": "./bin"
+    },
+    "dirs":{
+
+    }
+} 
